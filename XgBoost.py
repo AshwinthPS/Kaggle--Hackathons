@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 04 22:36:44 2017
 
-@author: AshwinthPS - First Submission - Seed diff model.
+@author: AshwinthPS - First Submission - Seed diff model - 0.572604 logloss
 """
 
 import numpy as np 
