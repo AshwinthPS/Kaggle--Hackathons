@@ -1,2 +1,2 @@
-# Kaggle--MML-17
-Kaggle Competiton - MML -17 - 0.572604 logloss
+# Kaggle--Kobe Bryant Shot Selection
+Kaggle Competiton - Kobe Bryant Shot Selection'November16 - 0.60516 logloss
